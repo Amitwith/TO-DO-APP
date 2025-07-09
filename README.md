@@ -22,7 +22,7 @@ It helps you stay productive by letting you add, complete, and delete tasks — 
 
 🚀 Live Preview
 
-🔗 [Open the App in Browser](https://your-username.github.io/todo-list/)  
+🔗 [Open the App in Browser](https://github.com/Amitwith/TO-DO-APP)  
 
 
 
